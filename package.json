@@ -1,0 +1,17 @@
+{
+  "name": "mask-text",
+  "version": "0.1.0",
+  "description": "Package to mask text",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/isaacssemugenyi/mask-text.git"
+  },
+  "keywords": ["mask", "text", "string", "masking"],
+  "author": {
+    "name": "Isaac Ssemugenyi",
+    "email": "isaacpro01@gmail.com"
+  },
+  "license": "MIT",
+  "types": "./index.d.ts"
+}
