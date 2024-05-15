@@ -1,8 +1,8 @@
-Transforming an array of objects with duplicate objects into single objects with an array of duplicate data as elements of objects
+Mask text
 
-![npm](https://img.shields.io/npm/v/mask-text)
-![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/mask-text/0.1.0)
-![licence (MIT)](https://img.shields.io/npm/l/mask-text)
+![npm](https://img.shields.io/npm/v/mask-text-js)
+![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/mask-text-js/0.1.0)
+![licence (MIT)](https://img.shields.io/npm/l/mask-text-js)
 
 ### usage 
 - [Usage](#usage-1)
@@ -13,9 +13,9 @@ Transforming an array of objects with duplicate objects into single objects with
 #### maskText
 
 ```js
-const textMask = require('mask-text');
+const textMask = require('mask-text-js');
 // or
-const { maskText } = require('mask-text');
+const { maskText } = require('mask-text-js');
 
 // Text to mask
 const originalText = "johndoe@example.com";
@@ -34,3 +34,5 @@ console.log(result);
 
 "johxxxxxxxxxxxxxcom"
 ```
+
+ <!-- https://www.freecodecamp.org/news/how-to-create-and-publish-your-first-npm-package/ -->
